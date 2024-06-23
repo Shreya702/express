@@ -176,7 +176,7 @@ The original author of Express is [TJ Holowaychuk](https://github.com/tj)
 
 <details>
 <summary>TC emeriti members</summary>
-
+# details
 #### TC emeriti members
 
   * [dougwilson](https://github.com/dougwilson) - **Douglas Wilson**
